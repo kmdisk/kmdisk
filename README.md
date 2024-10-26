@@ -8,4 +8,4 @@ Check out my portfolio site for more background & my works!
 - [Works](https://crogic.jp/web/work)
 
 ## Summary
-![](https://raw.githubusercontent.com/kmdisk/kmdisk/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmdisk&theme=nord_dark)
